@@ -1,3 +1,3 @@
-# Portfolio Project - RealPython (WIP)
+# Portfolio Project - RealPython 
 
-This is my portfolio project from RealPython.com.
+Work in progress. This is my portfolio project from RealPython.com.
